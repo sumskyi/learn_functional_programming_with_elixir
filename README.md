@@ -1,0 +1,1 @@
+![The book](./images/the_book.jpg)
