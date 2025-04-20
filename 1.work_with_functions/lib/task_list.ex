@@ -1,5 +1,5 @@
 defmodule TaskList do
-  @filename = "task_list.md"
+  @filename "task_list.md"
 
   def add(task_name) do
     task = "[ ] " <> task_name <> "\n"
